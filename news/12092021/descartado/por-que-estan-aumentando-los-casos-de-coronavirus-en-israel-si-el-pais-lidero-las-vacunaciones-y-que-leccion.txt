@@ -1,0 +1,49 @@
+Israel fue uno de los primeros países en implementar un amplio programa de vacunación contra la covid-19, convirtiéndose en foco de interés para el resto del mundo.
+A fines de febrero, las autoridades habían administrado al menos una dosis al 50% de la población.
+El país había vuelto prácticamente a la vida normal a inicios de junio. Los casos de covid-19 se mantenían bajos y parecía que la vacunación había ganado la batalla al virus.
+Sin embargo, a partir de julio, los casos comenzaron a aumentar nuevamente y a principios de septiembre se reportaban más de 10.000 nuevos casos diarios.
+La respuesta de las autoridades israelíes ha sido un programa de vacunación de refuerzo que se ofreció en un primer momento a mayores de 60 años pero ha sido ampliado a grupos de la población cada vez más jóvenes.
+El incremento reciente de casos ha encendido el debate sobre el futuro del programa de vacunación en el país y puede guardar importantes lecciones para el resto del mundo, según Rachel Schraer, reportera de salud de la BBC.
+Las autoridades de salud de Israel estarán especialmente atentas tras la reapertura de las escuelas el 1 de septiembre y las reuniones familiares que tuvieron lugar esta semana con motivo del año nuevo judío, el Rosh Hashaná.
+Una parte importante del problema en Israel ha sido la cobertura de vacunación, afirmó Micheal Head, investigador en salud global de la Universidad de Southampton en Inglaterra.
+Después de su rápido inicio, el programa de vacunación se ralentizó, apuntó Head en un artículo en el sitio The Conversation.
+“No ha habido interrupciones claras en el suministro de vacunas, por lo que factores como la vacilación o el acceso a la atención médica pueden haber sido un problema”, afirmó el investigador.
+“Por ejemplo, hay pruebas de que la aceptación es menor entre los grupos judíos árabes y ultraortodoxos”.
+La proporción de la población que recibió una dosis aumentó del 50% en febrero a solo el 68% en septiembre. Los niños de 12 a 15 años se han incluido en el lanzamiento desde junio de 2021.
+Con alrededor del 30% de su población sin vacunar, Israel tiene aproximadamente 2,7 millones de habitantes que son potencialmente susceptibles frente a infecciones y enfermedades, agregó.
+Pero incluso sin que estos grupos estuvieran vacunados, hace unos meses el nivel de cobertura parecía ser suficiente para controlar los casos. Entonces, ¿qué cambió?
+La variante Delta, más infecciosa, parece haber evadido parte de la protección de la vacuna contra la infección, aunque sigue siendo muy eficaz contra enfermedades graves.
+Los científicos que monitorean los datos creen que un factor importante en el reciente aumento de casos en Israel es la disminución de la inmunidad generada por la vacuna Pfizer, que inicialmente fue la única administrada en el país, según Schraer.
+La reportera citó al profesor Eran Segal, quien asesora al gobierno israelí en asuntos de covid.
+Segal señaló que cinco o seis meses después de la vacuna, las personas probablemente solo estén protegidas entre un 30% y un 40%, en comparación con más del 90% cuando la protección se activa por primera vez.
+“Eso es lo que estaba impulsando la ola”, afirmó Segal, una conclusión extraída de un análisis cuidadoso de las tasas de infección en personas vacunadas en diferentes meses.
+A pesar de esta caída, la vacunación todavía previene una cantidad importante de casoso graves. Los no vacunados se enferman gravemente con covid aproximadamente nueve veces más que los vacunados entre los mayores de 60 años, y el doble en personas más jóvenes, apuntó Schraer.
+Head señaló que, según informes recientes, casi el 60% de las hospitalizaciones son de personas completamente vacunadas.
+Sin embargo, estas cifras no significan necesariamente que las vacunas hayan perdido su eficacia.
+“El mismo tipo de tendencia se ha observado en Reino Unido, y puede reflejar simplemente el hecho de que los ancianos tienen más probabilidades de ser vacunados y al mismo tiempo son más susceptibles a las enfermedades, factores que se combinan para inflar los casos de covid-19 y las muertes entre los vacunados”, aclaró Head.
+Para Head, otro factor de peso es que Israel puso fin a sus restricciones.
+El investigador citó al Dr. Asher Salmon, director del Departamento de Relaciones Internacionales del Ministerio de Salud de Israel, quien sugirió en julio que Israel”pudo haber levantado las restricciones demasiado pronto”.
+Para Head, el caso de Israel es “el último de una larga lista de ejemplos que muestran cómo la transmisión comunitaria puede sostenerse fácilmente cuando la política nacional fomenta la mezcla de personas susceptibles con pocas o ninguna restricción”.
+El investigador citó el índice de rigor de las medidas contra la covid creado por Our World in Data. Este índice mide el rigor de las políticas de contención de la pandemia en cada país del mundo.
+Al 28 de agosto de 2021, la puntuación de las restricciones de Israel era de 45,4, mucho menos estricta que Nueva Zelanda (96,3), donde los brotes siguen siendo de alcance limitado.
+Israel respondió al reciente aumento de casos implementando un programa de refuerzo. En primer lugar se ofreció una tercera dosis a los mayores de 60 años, pero el límite fue gradualmente ampliado a edades menores.
+El 29 de agosto las autoridades israelíes anunciaron que Ia tercera dosis está disponible para cualquier persona de 12 años o mayor que haya recibido su segunda dosis al menos cinco meses antes.
+La tercera dosis “está frenando la ola Delta”, afirmó el profesor Segal.
+El Dr. Anat Ekka Zohar, quien dirige el estudio del programa de refuerzo, dijo que tres dosis eran “altamente protectoras, tanto contra infecciones como contra enfermedades graves”.
+“La tercera dosis es la solución para frenar el actual brote de infección”, agregó.
+Head explicó que en aquellas personas que reciben un refuerzo, el riesgo de una infección confirmada por coronavirus parece disminuir 11 veces en comparación con los individuos que han recibido dos dosis.
+Sin embargo, advierte el investigador, el estudio sobre este asunto aún está en una versión preliminar, por lo que sus hallazgos aún no se han revisado formalmente.
+Hay intensos debates a nivel global sobre si debe haber programas de refuerzo cuando tantas personas en el mundo ni siquiera han recibido una dosis.
+A principios de septiembre, solo el 5,4% de la población 5,4% del continente africano había recibido al menos una dosis de cualquier vacuna contra la covid-19.
+Algunos observadores cuestionan además si es sostenible administrar dosis de refuerzo cada seis meses o una vez al año como en el caso de la vacuna contra la gripe.
+Rachel Schraer señala que, si bien hemos acumulado una gran cantidad de evidencia para demostrar que las vacunas son seguras y efectivas para casi todos, todavía hay áreas en las que necesitamos más información.
+Podría ser que se necesite un programa de tres dosis, como en el caso de la vacuna contra la hepatitis B, para la que la triple vacunación resulta en una protección más o menos de por vida para la mayoría, señaló la reportera de la BBC.
+O podría ser que dos dosis más la inmunidad natural sean suficientes.
+Las personas pueden obtener una buena protección natural después de contraer el virus. Pero sin una vacuna, la infección conlleva el riesgo de una enfermedad grave con complicaciones a largo plazo o incluso la muerte.
+Los científicos han planteado la hipótesis de que la exposición repetida a la infección de covid, ahora con la protección de la vacuna y la inmunidad natural de infecciones pasadas que la hacen menos riesgosa, podría convertir con el tiempo al virus en una enfermedad potencialmente recurrente pero relativamente poco molesta.
+Otros temen sin embargo que esto pueda tener un alto costo, ya que las infecciones graves aún pueden afectar a los más vulnerables y se desconocen muchas consecuencias de la covid prolongada.
+Al menos, concluye la reportera de la BBC, el programa de refuerzo de Israel podría proporcionar más respuestas a algunas de estas preguntas pendientes.
+Para Michael Head, el lanzamiento de la vacuna en Israel, en general, se ha llevado a cabo con mucho éxito.
+“Pero el país también es un ejemplo de lo que puede suceder cuando las restricciones se relajan demasiado rápido”, agregó.
+“Esto demuestra que todos los países, independientemente de su estado actual de vacunación, deben mantener planes a más largo plazo sobre cómo minimizar el impacto de la covid-19, durante esta pandemia actual y en casos de brotes menores en el futuro”.
+______________________________
