@@ -1,0 +1,38 @@
+En la lucha contra el coronavirus, un componente clave del sistema inmunológico acaparó la atención: los anticuerpos.
+Estas proteínas en forma de Y han sido noticia recientemente porque las vacunas anticovid no producen suficientes de ellas para combatir la variante Ómicron del coronavirus, a menos que se introduzca algo que las estimule.
+Entrenados tanto por las vacunas como por la infección, los anticuerpos se adhieren a la proteína spike (espiga), que se mete en el coronavirus impidiéndole penetrar las células y enfermar al huésped.
+Sin embargo, los anticuerpos no son la única variable en juego.
+De hecho, “hay una respuesta compleja y coordinada que es realmente hermosa desde un punto de vista evolutivo”, explica Roger Shapiro, inmunólogo de Harvard.
+A continuación, se describen algunos puntos clave:
+En los minutos y horas posteriores a la aparición del virus en el cuerpo, unas proteínas envían alarmas para reclutar al equipo de defensa rudo pero débil del sistema inmunológico “innato”.
+Los primeros en aparecer son los “neutrófilos”, que constituyen entre el 50% y el 70% de todos los glóbulos blancos, que son rápidos para luchar, pero también para morir.
+También aparecen los “macrófagos”, especializados en detectar y eliminar los patógenos, liberando moléculas clave que activan a colegas más inteligentes, las llamadas células “asesinas naturales” o células “dendríticas”, que transmiten la información a células combatientes de élite.
+“Es como bombardear toda el área y, con suerte, dañar al invasor tanto como sea posible (...) y al mismo tiempo llamar a la base para que sus unidades SEAL estén listas para operar”, explica John Wherry, inmunólogo de la Universidad de Pensilvania.
+Si la defensa “innata” no ahuyenta a los invasores, entra en escena el sistema inmunológico “adaptativo”.
+A los pocos días de la primera infección, las “células B” se dan cuenta de la amenaza y comienzan a producir anticuerpos.
+La vacunación también entrena a las células B, principalmente dentro de los ganglios linfáticos de nuestras axilas, cerca del lugar de la inyección, para que estén atentas y preparadas.
+Shapiro las comparó con agentes de inteligencia, que tienen información vital sobre las amenazas.
+Los tipos de anticuerpos más potentes, conocidos como “neutralizantes”, son como una goma de mascar que se pega al extremo de una llave, impidiendo que abra la cerradura.
+Hay otros anticuerpos menos célebres que no son tan pegajosos como los “neutralizantes”, pero que aún así ayudan a atrapar al virus, arrastrándolo hacia células inmunes o pidiendo ayuda y aumentando la respuesta general.
+Las socias clave de las células B son las “células T”, que se pueden dividir en “ayudantes” y “asesinas”.
+“Las asesinas atacan las células que fueron infectadas”, dijo Shapiro, pero también causan daños colaterales.
+Las células T auxiliares “son como generales”, añadió Shapiro: alistan tropas, estimulan a las células B para que aumenten su producción y dirigen a sus homólogos letales hacia el enemigo.
+Debido a la importante mutación de su proteína spike, la variante Ómicron puede escabullirse más fácilmente neutralizando los anticuerpos aportados por una infección o vacunación previa.
+La mala noticia es que esto hace que las personas sean más propensas a sufrir infecciones sintomáticas.
+Pero la buena noticia es que las células T no son tan fáciles de engañar, pues tienen un “periscopio” en las células infectadas, donde pueden buscar las partes constituyentes del virus durante su ciclo de replicación, dijo Wherry.
+Son mucho mejores para reconocer los signos de lo enemigos con lo que ya se toparon, incluso si éstos se disfrazan para superar a los anticuerpos.
+Las células T asesinas llevan a cabo misiones de búsqueda y destrucción, perforando las células infectadas, abriéndolas y provocando reacciones para que las proteínas inflamatorias conocidas como “citoquinas” se sumen al combate.
+Dependiendo de la velocidad de respuesta, una persona vacunada que contraiga la infección puede presentar síntomas leves, similares a los de un resfriado, o síntomas moderados similares a los de la gripe, pero las posibilidades de una enfermedad grave se reducen drásticamente.
+Nada de esto quita valor a la aplicación de refuerzos, pues disparan la producción de todo tipo de anticuerpos y también parecen entrenar aún más a las células B y T.
+“Ómicron es preocupante, pero el vaso todavía está medio lleno; no va a evadir totalmente nuestra respuesta”, consideró Wherry.
+Un nuevo estudio dirigido por investigadores de la Facultad de Medicina LKS de la Universidad de Hong Kong ha proporcionado la primera información sobre cómo Ómicron infecta las vías respiratorias humanas.
+Estos investigadores han descubierto que Ómicron infecta y se multiplica 70 veces más rápido que la variante Delta y el SARS-CoV-2 original en los bronquios humanos, lo que puede explicar por qué ómicron puede transmitirse más rápido entre los humanos que las variantes anteriores.
+Sin embargo, su estudio también ha evidenciado que la infección de Ómicron en el pulmón es significativamente menor que la del SARS-CoV-2 original, lo que puede ser un indicador de una menor gravedad de la enfermedad. Esta investigación se encuentra actualmente en fase de revisión por pares para su publicación.
+Los científicos responsables de este estudio, Michael Chan Chi-wai y John Nicholls, son pioneros en el uso de cultivos ‘ex vivo’ del tracto respiratorio para investigar muchas infecciones víricas emergentes desde 2007, como la gripe aviar y el coronavirus del síndrome respiratorio de Oriente Medio (MERS).
+Ahora esta técnica se ha aplicado para entender por qué la variante ómicron puede diferir en la transmisión y la gravedad de la enfermedad de otras variantes del SARS-CoV-2. Este método utiliza tejido pulmonar extraído para el tratamiento del pulmón, que normalmente se desecha, para investigar las enfermedades víricas del tracto respiratorio.
+Chan y su equipo aislaron con éxito la variante Ómicron y utilizaron este modelo experimental para comparar la infección con el SARS-CoV-2 original de 2020, la variante Delta y la nueva variante. Descubrieron que ómicron se replica más rápidamente que el virus SARS-CoV-2 original y la variante Delta en el bronquio humano.
+A las 24 horas de la infección, la variante ómicron se replicaba unas 70 veces más que la variante Delta y el virus SARS-CoV-2 original. En cambio, ómicron se replicó con menos eficacia (más de 10 veces menos) en el tejido pulmonar humano que el virus original, lo que puede sugerir una menor gravedad de la enfermedad.
+Chan puntualiza que la gravedad de la enfermedad en los seres humanos no está determinada únicamente por la replicación del virus, sino también por la respuesta inmunitaria del huésped a la infección, que puede dar lugar a una desregulación del sistema inmunitario innato, es decir, a una ‘tormenta de citoquinas’.
+“También se ha observado que, al infectar a muchas más personas, un virus muy infeccioso puede causar una enfermedad más grave y la muerte aunque el propio virus sea menos patógeno. Por lo tanto, junto con nuestros recientes estudios que demuestran que la variante ómicron puede escapar parcialmente a la inmunidad de las vacunas y a la infección anterior, es probable que la amenaza global de la variante Ómicron sea muy importante”, advierte.
+Con información de AFP/Europa Press
+Síguenos en Twitter:
